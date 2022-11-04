@@ -1,0 +1,399 @@
+Site,Date,Sample_ID,Species,Total.Area,Sample.Area,Count,Data.Concern.,Notes,Heatwave_stage,count_msq,pop_est
+A,5/27/2021,1,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,2,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,3,Ostrea lurida,6146,13.25,1,NA,NA,before,0.075471698,463.8490566
+A,5/27/2021,4,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,5,Ostrea lurida,6146,13.25,1,NA,NA,before,0.075471698,463.8490566
+A,5/27/2021,6,Ostrea lurida,6146,13.25,7,NA,NA,before,0.528301887,3246.943396
+A,5/27/2021,7,Ostrea lurida,6146,13.25,1,NA,NA,before,0.075471698,463.8490566
+A,5/27/2021,8,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,9,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,10,Ostrea lurida,6146,13.25,1,NA,NA,before,0.075471698,463.8490566
+A,5/27/2021,11,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,12,Ostrea lurida,6146,13.25,3,NA,NA,before,0.226415094,1391.54717
+A,5/27/2021,13,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,14,Ostrea lurida,6146,13.25,2,NA,NA,before,0.150943396,927.6981132
+A,5/27/2021,15,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,16,Ostrea lurida,6146,13.25,7,NA,NA,before,0.528301887,3246.943396
+A,5/27/2021,17,Ostrea lurida,6146,13.25,3,NA,NA,before,0.226415094,1391.54717
+A,5/27/2021,18,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,19,Ostrea lurida,6146,13.25,4,NA,NA,before,0.301886792,1855.396226
+A,5/27/2021,20,Ostrea lurida,6146,13.25,7,NA,NA,before,0.528301887,3246.943396
+A,5/27/2021,21,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,22,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,23,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,24,Ostrea lurida,6146,13.25,6,NA,NA,before,0.452830189,2783.09434
+A,5/27/2021,25,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,26,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,27,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,28,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,29,Ostrea lurida,6146,13.25,2,NA,NA,before,0.150943396,927.6981132
+A,5/27/2021,30,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,31,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,32,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,33,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,34,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,35,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,36,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,37,Ostrea lurida,6146,13.25,2,NA,NA,before,0.150943396,927.6981132
+A,5/27/2021,38,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,39,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,40,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,41,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,42,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,44,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,45,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,46,Ostrea lurida,6146,13.25,2,NA,NA,before,0.150943396,927.6981132
+A,5/27/2021,47,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,48,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,49,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,50,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,51,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,52,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,53,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,5/27/2021,55,Ostrea lurida,6146,13.25,0,NA,NA,before,0,0
+A,7/26/2021,1,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,2,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,3,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,4,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,5,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,6,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,7,Ostrea lurida,6146,16.25,2,NA,NA,after,0.123076923,756.4307692
+A,7/26/2021,8,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,9,Ostrea lurida,6146,16.25,1,NA,NA,after,0.061538462,378.2153846
+A,7/26/2021,10,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,11,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,12,Ostrea lurida,6146,16.25,3,NA,NA,after,0.184615385,1134.646154
+A,7/26/2021,13,Ostrea lurida,6146,16.25,5,NA,NA,after,0.307692308,1891.076923
+A,7/26/2021,14,Ostrea lurida,6146,16.25,4,NA,NA,after,0.246153846,1512.861538
+A,7/26/2021,15,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,16,Ostrea lurida,6146,16.25,2,NA,NA,after,0.123076923,756.4307692
+A,7/26/2021,17,Ostrea lurida,6146,16.25,3,NA,NA,after,0.184615385,1134.646154
+A,7/26/2021,19,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,20,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,21,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,22,Ostrea lurida,6146,16.25,3,NA,NA,after,0.184615385,1134.646154
+A,7/26/2021,23,Ostrea lurida,6146,16.25,1,NA,NA,after,0.061538462,378.2153846
+A,7/26/2021,24,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,25,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,26,Ostrea lurida,6146,16.25,1,NA,NA,after,0.061538462,378.2153846
+A,7/26/2021,27,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,28,Ostrea lurida,6146,16.25,2,NA,NA,after,0.123076923,756.4307692
+A,7/26/2021,29,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,30,Ostrea lurida,6146,16.25,1,NA,NA,after,0.061538462,378.2153846
+A,7/26/2021,31,Ostrea lurida,6146,16.25,3,NA,NA,after,0.184615385,1134.646154
+A,7/26/2021,32,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,33,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,34,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,35,Ostrea lurida,6146,16.25,3,NA,NA,after,0.184615385,1134.646154
+A,7/26/2021,36,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,37,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,38,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,39,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,40,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,41,Ostrea lurida,6146,16.25,2,NA,NA,after,0.123076923,756.4307692
+A,7/26/2021,42,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,43,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,44,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,45,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,46,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,47,Ostrea lurida,6146,16.25,1,NA,NA,after,0.061538462,378.2153846
+A,7/26/2021,48,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,49,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,50,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,51,Ostrea lurida,6146,16.25,3,NA,NA,after,0.184615385,1134.646154
+A,7/26/2021,52,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,53,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,54,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,55,Ostrea lurida,6146,16.25,1,NA,NA,after,0.061538462,378.2153846
+A,7/26/2021,56,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,57,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,58,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,59,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,60,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,61,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,62,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,63,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,64,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,65,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+A,7/26/2021,66,Ostrea lurida,6146,16.25,0,NA,NA,after,0,0
+B,5/25/2021,1,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,2,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,3,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,4,Ostrea lurida,1195,0.25,1,,,before,4,4780
+B,5/25/2021,5,Ostrea lurida,1195,0.25,1,,,before,4,4780
+B,5/25/2021,6,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,7,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,8,Ostrea lurida,1195,0.25,14,,,before,56,66920
+B,5/25/2021,9,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,10,Ostrea lurida,1195,0.25,3,,,before,12,14340
+B,5/25/2021,11,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,12,Ostrea lurida,1195,0.25,1,,,before,4,4780
+B,5/25/2021,13,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,14,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,15,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,16,Ostrea lurida,1195,0.25,18,,,before,72,86040
+B,5/25/2021,17,Ostrea lurida,1195,0.25,7,,,before,28,33460
+B,5/25/2021,18,Ostrea lurida,1195,0.25,2,,,before,8,9560
+B,5/25/2021,19,Ostrea lurida,1195,0.25,54,,,before,216,258120
+B,5/25/2021,20,Ostrea lurida,1195,0.25,26,,,before,104,124280
+B,5/25/2021,21,Ostrea lurida,1195,0.25,2,,,before,8,9560
+B,5/25/2021,22,Ostrea lurida,1195,0.25,9,,,before,36,43020
+B,5/25/2021,23,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,24,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,25,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,26,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,27,Ostrea lurida,1195,0.25,49,,,before,196,234220
+B,5/25/2021,28,Ostrea lurida,1195,0.25,8,,,before,32,38240
+B,5/25/2021,29,Ostrea lurida,1195,0.25,71,,,before,284,339380
+B,5/25/2021,30,Ostrea lurida,1195,0.25,87,,,before,348,415860
+B,5/25/2021,31,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,32,Ostrea lurida,1195,0.25,15,,,before,60,71700
+B,5/25/2021,33,Ostrea lurida,1195,0.25,50,,,before,200,239000
+B,5/25/2021,34,Ostrea lurida,1195,0.25,16,,,before,64,76480
+B,5/25/2021,35,Ostrea lurida,1195,0.25,6,,,before,24,28680
+B,5/25/2021,36,Ostrea lurida,1195,0.25,45,,,before,180,215100
+B,5/25/2021,37,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,38,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,39,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,40,Ostrea lurida,1195,0.25,3,,,before,12,14340
+B,5/25/2021,41,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,42,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,43,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,44,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,45,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,46,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,47,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,48,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,49,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,50,Ostrea lurida,1195,0.25,0,,,before,0,0
+B,5/25/2021,51,Ostrea lurida,1195,0.25,0,Out,"Remove from analysis. Throw out data-Don’t include in any analysis population estimate, out of walking boundary and restyoration perimiter
+",before,0,0
+B,5/25/2021,52,Ostrea lurida,1195,0.25,0,Out,"Remove from analysis. Throw out data-Don’t include in any analysis population estimate, out of walking boundary and restyoration perimiter
+",before,0,0
+B,5/25/2021,53,Ostrea lurida,1195,0.25,0,Out,"Remove from analysis. Throw out data-Don’t include in any analysis population estimate, out of walking boundary and restyoration perimiter
+",before,0,0
+B,8/18/2021,180,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,181,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,182,Ostrea lurida,1195,0.25,4,,,after,16,19120
+B,8/18/2021,183,Ostrea lurida,1195,0.25,16,,,after,64,76480
+B,8/18/2021,184,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,185,Ostrea lurida,1195,0.25,3,,,after,12,14340
+B,8/18/2021,186,Ostrea lurida,1195,0.25,17,,,after,68,81260
+B,8/18/2021,187,Ostrea lurida,1195,0.25,1,,,after,4,4780
+B,8/18/2021,188,Ostrea lurida,1195,0.25,1,,,after,4,4780
+B,8/18/2021,189,Ostrea lurida,1195,0.25,11,,,after,44,52580
+B,8/18/2021,190,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,191,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,192,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,193,Ostrea lurida,1195,0.25,11,,,after,44,52580
+B,8/18/2021,194,Ostrea lurida,1195,0.25,11,,,after,44,52580
+B,8/18/2021,195,Ostrea lurida,1195,0.25,21,,,after,84,100380
+B,8/18/2021,196,Ostrea lurida,1195,0.25,37,,,after,148,176860
+B,8/18/2021,197,Ostrea lurida,1195,0.25,29,,,after,116,138620
+B,8/18/2021,198,Ostrea lurida,1195,0.25,20,,,after,80,95600
+B,8/18/2021,199,Ostrea lurida,1195,0.25,49,,,after,196,234220
+B,8/18/2021,200,Ostrea lurida,1195,0.25,4,,,after,16,19120
+B,8/18/2021,201,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,202,Ostrea lurida,1195,0.25,2,,,after,8,9560
+B,8/18/2021,203,Ostrea lurida,1195,0.25,2,,,after,8,9560
+B,8/18/2021,204,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,205,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,206,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,207,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,208,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,209,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,210,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,211,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,212,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,213,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,214,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,215,Ostrea lurida,1195,0.25,1,,,after,4,4780
+B,8/18/2021,216,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,217,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,218,Ostrea lurida,1195,0.25,0,,,after,0,0
+B,8/18/2021,219,Ostrea lurida,1195,0.25,0,Out,"Remove from analysis. Throw out data-Don’t include in any analysis population estimate, out of walking boundary and restyoration perimiter
+",after,0,0
+B,8/18/2021,220,Ostrea lurida,1195,0.25,0,Out,"Remove from analysis. Throw out data-Don’t include in any analysis population estimate, out of walking boundary and restyoration perimiter
+",after,0,0
+B,8/18/2021,221,Ostrea lurida,1195,0.25,0,Out,"Remove from analysis. Throw out data-Don’t include in any analysis population estimate, out of walking boundary and restyoration perimiter
+",after,0,0
+B,8/18/2021,222,Ostrea lurida,1195,0.25,0,Out,"Remove from analysis. Throw out data-Don’t include in any analysis population estimate, out of walking boundary and restyoration perimiter
+",after,0,0
+B,8/18/2021,223,Ostrea lurida,1195,0.25,0,Out,"Remove from analysis. Throw out data-Don’t include in any analysis population estimate, out of walking boundary and restyoration perimiter
+",after,0,0
+B,8/18/2021,224,Ostrea lurida,1195,0.25,0,Out,"Remove from analysis. Throw out data-Don’t include in any analysis population estimate, out of walking boundary and restyoration perimiter
+",after,0,0
+B,8/18/2021,225,Ostrea lurida,1195,0.25,0,Out,"Remove from analysis. Throw out data-Don’t include in any analysis population estimate, out of walking boundary and restyoration perimiter
+",after,0,0
+B,8/18/2021,226,Ostrea lurida,1195,0.25,0,Out,"Remove from analysis. Throw out data-Don’t include in any analysis population estimate, out of walking boundary and restyoration perimiter
+",after,0,0
+B,8/18/2021,227,Ostrea lurida,1195,0.25,0,Out,"Remove from analysis. Throw out data-Don’t include in any analysis population estimate, out of walking boundary and restyoration perimiter
+",after,0,0
+B,8/18/2021,228,Ostrea lurida,1195,0.25,0,Out,"Remove from analysis. Throw out data-Don’t include in any analysis population estimate, out of walking boundary and restyoration perimiter
+",after,0,0
+B,8/18/2021,229,Ostrea lurida,1195,0.25,0,Out,"Remove from analysis. Throw out data-Don’t include in any analysis population estimate, out of walking boundary and restyoration perimiter
+",after,0,0
+B,8/18/2021,230,Ostrea lurida,1195,0.25,0,Out,"Remove from analysis. Throw out data-Don’t include in any analysis population estimate, out of walking boundary and restyoration perimiter
+",after,0,0
+C,6/23/2021,1,Ruditapes philippinarum,1918,0.25,34,,,before,136,260848
+C,6/23/2021,2,Leukoma staminea,1918,0.25,24,,,before,96,184128
+C,6/23/2021,2,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,3,Leukoma staminea,1918,0.25,19,,,before,76,145768
+C,6/23/2021,3,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,4,Leukoma staminea,1918,0.25,2,,,before,8,15344
+C,6/23/2021,4,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,6,Leukoma staminea,1918,0.25,1,,,before,4,7672
+C,6/23/2021,6,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,7,Leukoma staminea,1918,0.25,13,,,before,52,99736
+C,6/23/2021,7,Ruditapes philippinarum,1918,0.25,16,,,before,64,122752
+C,6/23/2021,8,Leukoma staminea,1918,0.25,48,,,before,192,368256
+C,6/23/2021,8,Ruditapes philippinarum,1918,0.25,6,,,before,24,46032
+C,6/23/2021,9,Leukoma staminea,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,9,Ruditapes philippinarum,1918,0.25,1,,,before,4,7672
+C,6/23/2021,10,Leukoma staminea,1918,0.25,14,,,before,56,107408
+C,6/23/2021,10,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,11,Leukoma staminea,1918,0.25,5,,,before,20,38360
+C,6/23/2021,11,Ruditapes philippinarum,1918,0.25,1,,,before,4,7672
+C,6/23/2021,12,Leukoma staminea,1918,0.25,4,,,before,16,30688
+C,6/23/2021,12,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,13,Leukoma staminea,1918,0.25,33,,,before,132,253176
+C,6/23/2021,13,Ruditapes philippinarum,1918,0.25,34,,,before,136,260848
+C,6/23/2021,14,Leukoma staminea,1918,0.25,34,,,before,136,260848
+C,6/23/2021,14,Ruditapes philippinarum,1918,0.25,7,,,before,28,53704
+C,6/23/2021,15,Leukoma staminea,1918,0.25,6,,,before,24,46032
+C,6/23/2021,15,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,16,Leukoma staminea,1918,0.25,26,,,before,104,199472
+C,6/23/2021,16,Ruditapes philippinarum,1918,0.25,5,,,before,20,38360
+C,6/23/2021,17,Leukoma staminea,1918,0.25,15,,,before,60,115080
+C,6/23/2021,17,Ruditapes philippinarum,1918,0.25,10,,,before,40,76720
+C,6/23/2021,18,Leukoma staminea,1918,0.25,37,,,before,148,283864
+C,6/23/2021,18,Ruditapes philippinarum,1918,0.25,4,,,before,16,30688
+C,6/23/2021,19,Leukoma staminea,1918,0.25,1,,,before,4,7672
+C,6/23/2021,19,Ruditapes philippinarum,1918,0.25,1,,,before,4,7672
+C,6/23/2021,20,Leukoma staminea,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,20,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,22,Leukoma staminea,1918,0.25,34,,,before,136,260848
+C,6/23/2021,22,Ruditapes philippinarum,1918,0.25,20,,,before,80,153440
+C,6/23/2021,23,Leukoma staminea,1918,0.25,44,,,before,176,337568
+C,6/23/2021,23,Ruditapes philippinarum,1918,0.25,6,,,before,24,46032
+C,6/23/2021,24,Leukoma staminea,1918,0.25,3,,,before,12,23016
+C,6/23/2021,24,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,25,Leukoma staminea,1918,0.25,1,,,before,4,7672
+C,6/23/2021,25,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,26,Leukoma staminea,1918,0.25,1,,,before,4,7672
+C,6/23/2021,26,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,27,Leukoma staminea,1918,0.25,2,,,before,8,15344
+C,6/23/2021,27,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,28,Leukoma staminea,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,28,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,29,Leukoma staminea,1918,0.25,38,,,before,152,291536
+C,6/23/2021,29,Ruditapes philippinarum,1918,0.25,1,,,before,4,7672
+C,6/23/2021,30,Leukoma staminea,1918,0.25,33,,,before,132,253176
+C,6/23/2021,30,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,31,Leukoma staminea,1918,0.25,15,,,before,60,115080
+C,6/23/2021,31,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,32,Leukoma staminea,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,32,Ruditapes philippinarum,1918,0.25,1,,,before,4,7672
+C,6/23/2021,34,Leukoma staminea,1918,0.25,1,,,before,4,7672
+C,6/23/2021,34,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,36,Leukoma staminea,1918,0.25,28,,,before,112,214816
+C,6/23/2021,36,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,37,Leukoma staminea,1918,0.25,1,,,before,4,7672
+C,6/23/2021,37,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,38,Leukoma staminea,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,38,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,39,Leukoma staminea,1918,0.25,4,,,before,16,30688
+C,6/23/2021,39,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,6/23/2021,40,Leukoma staminea,1918,0.25,3,,,before,12,23016
+C,6/23/2021,40,Ruditapes philippinarum,1918,0.25,1,,,before,4,7672
+C,6/23/2021,41,Leukoma staminea,1918,0.25,2,,,before,8,15344
+C,6/23/2021,41,Ruditapes philippinarum,1918,0.25,1,,,before,4,7672
+C,6/23/2021,42,Leukoma staminea,1918,0.25,7,,,before,28,53704
+C,6/23/2021,42,Ruditapes philippinarum,1918,0.25,0,NA,zero count,before,0,0
+C,8/10/2021,106,Leukoma staminea,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,106,Ruditapes philippinarum,1918,0.25,20,,,after,80,153440
+C,8/10/2021,107,Leukoma staminea,1918,0.25,3,,,after,12,23016
+C,8/10/2021,107,Ruditapes philippinarum,1918,0.25,6,,,after,24,46032
+C,8/10/2021,108,Leukoma staminea,1918,0.25,6,,,after,24,46032
+C,8/10/2021,108,Ruditapes philippinarum,1918,0.25,1,,,after,4,7672
+C,8/10/2021,109,Leukoma staminea,1918,0.25,2,,,after,8,15344
+C,8/10/2021,109,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,110,Leukoma staminea,1918,0.25,3,,,after,12,23016
+C,8/10/2021,110,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,111,Leukoma staminea,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,111,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,112,Leukoma staminea,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,112,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,113,Leukoma staminea,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,113,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,114,Leukoma staminea,1918,0.25,42,,,after,168,322224
+C,8/10/2021,114,Ruditapes philippinarum,1918,0.25,30,,,after,120,230160
+C,8/10/2021,115,Leukoma staminea,1918,0.25,17,,,after,68,130424
+C,8/10/2021,115,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,116,Leukoma staminea,1918,0.25,2,,,after,8,15344
+C,8/10/2021,116,Ruditapes philippinarum,1918,0.25,1,,,after,4,7672
+C,8/10/2021,117,Leukoma staminea,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,117,Ruditapes philippinarum,1918,0.25,2,,,after,8,15344
+C,8/10/2021,118,Leukoma staminea,1918,0.25,2,,,after,8,15344
+C,8/10/2021,118,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,119,Leukoma staminea,1918,0.25,1,,,after,4,7672
+C,8/10/2021,119,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,120,Leukoma staminea,1918,0.25,1,,,after,4,7672
+C,8/10/2021,120,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,121,Leukoma staminea,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,121,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,122,Leukoma staminea,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,122,Ruditapes philippinarum,1918,0.25,1,,,after,4,7672
+C,8/10/2021,125,Leukoma staminea,1918,0.25,4,,,after,16,30688
+C,8/10/2021,125,Ruditapes philippinarum,1918,0.25,17,,,after,68,130424
+C,8/10/2021,126,Leukoma staminea,1918,0.25,27,,,after,108,207144
+C,8/10/2021,126,Ruditapes philippinarum,1918,0.25,2,,,after,8,15344
+C,8/10/2021,127,Leukoma staminea,1918,0.25,46,,,after,184,352912
+C,8/10/2021,127,Ruditapes philippinarum,1918,0.25,3,,,after,12,23016
+C,8/10/2021,128,Leukoma staminea,1918,0.25,9,,,after,36,69048
+C,8/10/2021,128,Ruditapes philippinarum,1918,0.25,1,,,after,4,7672
+C,8/10/2021,129,Leukoma staminea,1918,0.25,22,,,after,88,168784
+C,8/10/2021,129,Ruditapes philippinarum,1918,0.25,6,,,after,24,46032
+C,8/10/2021,130,Leukoma staminea,1918,0.25,5,,,after,20,38360
+C,8/10/2021,130,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,131,Leukoma staminea,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,131,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,132,Leukoma staminea,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,132,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,133,Leukoma staminea,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,133,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,134,Leukoma staminea,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,134,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,135,Leukoma staminea,1918,0.25,10,,,after,40,76720
+C,8/10/2021,135,Ruditapes philippinarum,1918,0.25,11,,,after,44,84392
+C,8/10/2021,136,Leukoma staminea,1918,0.25,3,,,after,12,23016
+C,8/10/2021,136,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,137,Leukoma staminea,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,137,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,138,Leukoma staminea,1918,0.25,1,,,after,4,7672
+C,8/10/2021,138,Ruditapes philippinarum,1918,0.25,22,,,after,88,168784
+C,8/10/2021,139,Leukoma staminea,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,139,Ruditapes philippinarum,1918,0.25,3,,,after,12,23016
+C,8/10/2021,140,Leukoma staminea,1918,0.25,9,,,after,36,69048
+C,8/10/2021,140,Ruditapes philippinarum,1918,0.25,3,,,after,12,23016
+C,8/10/2021,141,Leukoma staminea,1918,0.25,29,,,after,116,222488
+C,8/10/2021,141,Ruditapes philippinarum,1918,0.25,5,,,after,20,38360
+C,8/10/2021,142,Leukoma staminea,1918,0.25,1,,,after,4,7672
+C,8/10/2021,142,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,143,Leukoma staminea,1918,0.25,1,,,after,4,7672
+C,8/10/2021,143,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,144,Leukoma staminea,1918,0.25,1,,,after,4,7672
+C,8/10/2021,144,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,146,Leukoma staminea,1918,0.25,11,,,after,44,84392
+C,8/10/2021,146,Ruditapes philippinarum,1918,0.25,20,,,after,80,153440
+C,8/10/2021,147,Leukoma staminea,1918,0.25,1,,,after,4,7672
+C,8/10/2021,147,Ruditapes philippinarum,1918,0.25,1,,,after,4,7672
+C,8/10/2021,148,Leukoma staminea,1918,0.25,1,,,after,4,7672
+C,8/10/2021,148,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,149,Leukoma staminea,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,149,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,150,Leukoma staminea,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,150,Ruditapes philippinarum,1918,0.25,0,NA,zero count,after,0,0
+C,8/10/2021,151,Leukoma staminea,1918,0.25,6,,,after,24,46032
+C,8/10/2021,151,Ruditapes philippinarum,1918,0.25,2,,,after,8,15344
